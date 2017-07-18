@@ -1,3 +1,6 @@
+/* Priyanka Patel
+ * CS 356
+ */
 import java.awt.*;
 import javax.swing.*;
 import javax.swing.event.*;
